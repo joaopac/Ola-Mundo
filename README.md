@@ -1,2 +1,4 @@
-# Ola Mundo
- Primeiro repositório Curto Git e GitHub
+# Olá Mundo!
+ Primeiro repositório Curso Git e GitHub
+ 
+ Repositório criado no dia 12/01/2024
